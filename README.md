@@ -33,7 +33,7 @@ Visit the live site: [https://merry-brioche-60dde6.netlify.app](https://merry-br
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/m-waqas007/flowpay
 cd flowpay
 ```
 
